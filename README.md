@@ -7,12 +7,6 @@
 <a href="https://github.com/lubusIN/actions"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs"></a>
 </p>
 
-<center>
-<a href="https://lubus.in/">
-<img src="https://user-images.githubusercontent.com/1039236/40877801-3fa8ccf6-66a4-11e8-8f42-19ed4e883ce9.png" />
-</a>
-</center>
-
 # Github Actions
 
 Collection of various `Github Actions` for [lubus](https://github.com/lubusIN) repos.
@@ -31,19 +25,19 @@ Collection of various `Github Actions` for [lubus](https://github.com/lubusIN) r
 
 If you have any suggestions/feature request that you would like to see, feel free to let us know in the [issues section](https://github.com/lubusIN/actions/issues)
 
-## Credits
+## Meet Your Artisans
 
-[Ajit Bohra](https://twitter.com/ajitbohra)
+[LUBUS](http://lubus.in) is a web design agency based in Mumbai.
 
-## Support Us
-
-<a href="https://www.patreon.com/lubus">
-<img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Become A Patron"/>
+<a href="https://cal.com/lubus">
+<img src="https://raw.githubusercontent.com/lubusIN/.github/refs/heads/main/profile/banner.png" />
 </a>
 
-[LUBUS](http://lubus.in) is a web design agency based in Mumbai, India.
+## Credits
 
-You can pledge on [patreon](https://www.patreon.com/lubus) to support the development & maintenance of various [opensource](https://github.com/lubusIN/) stuff we are building.
+<a href="https://github.com/lubusIN/github-actions/graphs/contributors">
+  <img height="36px" src="https://contrib.rocks/image?repo=lubusIN/github-actions"/>
+</a>
 
 ## License
 
